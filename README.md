@@ -5,45 +5,57 @@ All listed hardware is the minimum to complete the blaster. Additional hardware 
 
 Hardware required:
 
-Upper hardware:
+ Upper hardware:
 
-1 1/4 inch pvc pipe. qty: 2 feet required. Can be thinwall pvc or standard.
+   1 1/4 inch pvc pipe. qty: 2 feet required. Can be thinwall pvc or standard.
 
-3/4 inch pvc pipe. qty: 2 feet required.
+   3/4 inch pvc pipe. qty: 2 feet required.
 
-3/4 inch pvc pipe coupler. qty: 1 required. 
+   3/4 inch pvc pipe coupler. qty: 1 required. 
 
-4mm x 7mm selftapping screws (or imperial equivlent) qty: 9 required. 
+   4mm x 7mm selftapping screws (or imperial equivlent) qty: 9 required. 
 
-M5 x 50mm machine screw. qty: 1 required.
+   M5 x 50mm machine screw. qty: 1 required.
 
-M5 x 30mm machine screw. qty: 1 required.
+   M5 x 30mm machine screw. qty: 1 required.
 
-M5 wing nuts. qty: 2.
+   M5 wing nuts. qty: 2.
 
-Lower hardware:
+ Lower hardware:
 
-M3 x 10 machine screws. qty: 20 required.
+   M3 x 10 machine screws. qty: 20 required.
 
-M3 x 15 machine screw. qty: 1 required.
+   M3 x 15 machine screw. qty: 1 required.
 
-M3 x 30 machine screws. qty: 2 required.
+   M3 x 30 machine screws. qty: 2 required.
 
-35mm or standard size nerf flywheel pair. qty: 1 pair required.
+   35mm or standard size nerf flywheel pair. qty: 1 pair required.
 
-130 or 180 sized dc motors. qty: 1 pair required.
+   130 or 180 sized dc motors. qty: 1 pair required.
 
-Microwitch, preferably 15a or above. qty: 1 required.
+   Microwitch, preferably 15a or above. qty: 1 required.
 
-Wire connectors. qty: 2 pairs. Wire onnectors must correspond with battery connectors, and wire size. 
+   Wire connectors. qty: 2 pairs. Wire onnectors must correspond with battery connectors, and wire size. 
 
-16ga wire. qty: 5 feet required. Can be any wire gauge, 16 or 18ga wire is a hobby standard.
+   16ga wire. qty: 5 feet required. Can be any wire gauge, 16 or 18ga wire is a hobby standard.
+   
+   Desired battery. qty: 1 required. Use whatever battery you want, lipos are a hobby standard. If using AAs, use the approprite battery tray.
 
-Super glue or hot glue. qty: enough glue to hold the microswitch. 
+   Super glue or hot glue. qty: enough glue to hold the microswitch. 
 
-5mm diameter springs. qty 15mm. Must be strong/weak to hold mag release.
+   5mm diameter springs. qty 15mm. Must be strong/weak to hold mag release.
 
-5mm diameter springs. qty 50mm. Must be strong/weak to return trigger.
+   5mm diameter springs. qty 50mm. Must be strong/weak to return trigger.
+
+ Optional accessories 
+    
+  Bent stock: (Stock that lowers the cheek rest, allowing for comfortable sholdering/aiming.)
+      
+   45 degree 3/4 pvc elbows. qty: 2 required.
+   
+  
+   
+    
 
 
 
