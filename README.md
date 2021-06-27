@@ -58,7 +58,8 @@ Hardware required:
    Only preform anything at your own risk. Original files and creator here: https://github.com/Flygonial/The-Gryphon-Foam-Dart-Blaster#:~:text=The%20Gryphon%20is%20a%20mostly%203D%20printable%2C%20hobby-grade%2C,by%20rack%20and%20pinion%20with%201%3A3%20gear%20multiplication. Do not take credit for the origial design, per the original creator, flygonial's request.
   
    Version list: 
-     26 June 2021: Initial Publication
+     
+   26 June 2021: Initial Publication
     
 
 
